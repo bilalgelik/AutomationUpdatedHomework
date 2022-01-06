@@ -42,7 +42,6 @@ def sayiOkunusu(sayi_girdisi):
 
 
 sayi_atama(sayi_girdisi)
-
 print("********************************************")
 
 
@@ -90,5 +89,4 @@ elif (sinav_ortalamasi >= 55):
 
 elif (sinav_ortalamasi < 55):
     print("Harf notunuz FF ve Genel puanınız:", sinav_ortalamasi)
-
 print("********************************************")
