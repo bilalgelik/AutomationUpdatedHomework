@@ -16,6 +16,8 @@ print(son_durum)
 print("********************************************")
 
 print("İkinci Fonksiyon Ödevi")
+
+
 sayi_girdisi = int(input("2 Basamaklı Sayı Giriniz:"))
 
 
