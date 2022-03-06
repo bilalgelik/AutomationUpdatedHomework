@@ -9,7 +9,7 @@ class WebPush:
         self.push_type = push_type
 
     def send_push(self):
-        print(f"{self.push_type} gönderildi..")
+        print(f"{self.push_type} gönderildi")
     
 class TriggerPush(WebPush):
     def __init__(self, platform, optin, global_frequency_capping, start_date, end_date, language, push_type , trigger_page):
