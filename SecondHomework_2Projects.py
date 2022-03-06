@@ -14,7 +14,7 @@ class Ogrenci:
               Öğrenci Sınıfı : {}
               """.format(self.ogrenci_adi, self.ogrenci_soyadi, self.ogrenci_sinifi))
 
-# net sayisi toplam puan
+# net sayisi toplam puann
 class Sorular:
     @staticmethod
     def net_sayisi(dogru, yanlis):
